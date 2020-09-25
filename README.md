@@ -1,6 +1,5 @@
-### 👋
-### Daniel Fesalbon
-### just another typical programming dude
+### 👋 Daniel Fesalbon
+### hhmm..
 <!--
 **danielfesalbon/danielfesalbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
