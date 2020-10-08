@@ -23,3 +23,8 @@ Here are some ideas to get you started:
   Angular
 </p>
 
+<p align="left">
+  Most of my projects were left unfinish so.. there you go..
+</p>
+
+
