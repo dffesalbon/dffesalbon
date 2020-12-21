@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  Most of my projects were left unfinish so.. there you go..
+  I need a job. Thanks.
 </p>
 
 
