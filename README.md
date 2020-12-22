@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+- Java
+- Python
+- Angular
+<!--<p align="left">
   Java
   <br>
   Python
   <br>
   Angular
-</p>
+</p>-->
 
 <p align="left">
   I need a job. Thanks.
