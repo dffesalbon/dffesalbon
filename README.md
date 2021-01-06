@@ -18,16 +18,6 @@ Here are some ideas to get you started:
 - Java
 - Python
 - Angular
-<!--<p align="left">
-  Java
-  <br>
-  Python
-  <br>
-  Angular
-</p>-->
 
-<p align="left">
-  I need a job. Thanks.
-</p>
 
 
