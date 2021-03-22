@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Java
-- Python
 - Angular
 - Spring Boot
-- React
 
 
