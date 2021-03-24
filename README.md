@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Angular
 - Spring Boot
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149297757)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12149297757)]
