@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - Angular
 - Spring Boot
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4VutZnSVnGhK020byFP8YL)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?user=danielfesalbon)](https://open.spotify.com/playlist/4VutZnSVnGhK020byFP8YL)
 
