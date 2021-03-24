@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - Angular
 - Spring Boot
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=danielffesalbon)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149297757)
