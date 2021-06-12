@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - Java
+- Python
 - Angular
-- Spring Boot
-- SQL
-- JavaScript
+
 
 https://www.youtube.com/playlist?list=PLtuCF5FHqjTW7DqNSd8a5jauMs9qio8wy
 
