@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 - Java
 - Python
-
+- JavaScript
+- Node.js
+- Spring Boot
+- Django
+- Angular
+- React
 
 <!--https://www.youtube.com/playlist?list=PLtuCF5FHqjTW7DqNSd8a5jauMs9qio8wy
 
