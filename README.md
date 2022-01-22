@@ -1,4 +1,3 @@
-### 👋 Daniel Fesalbon
 
 #### cogito, ergo sum software ingeniarius ⚡
 <!--
