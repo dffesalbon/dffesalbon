@@ -1,5 +1,7 @@
 
 #### cogito, ergo sum software ingeniarius ⚡
+
+ - https://www.kaggle.com/danielfesalbon
 <!--
 **danielfesalbon/danielfesalbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
