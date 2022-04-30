@@ -1,7 +1,6 @@
 
-#### cogito, ergo sum software ingeniarius ⚡
+####  ⚡
 
- - https://www.kaggle.com/danielfesalbon
 <!--
 **danielfesalbon/danielfesalbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!--https://www.youtube.com/playlist?list=PLtuCF5FHqjTW7DqNSd8a5jauMs9qio8wy
-
-https://stackoverflow.com/users/15487369-->
-
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149297757&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12149297757&redirect=true)-->
